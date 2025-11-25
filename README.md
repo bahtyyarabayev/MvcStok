@@ -26,7 +26,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [https://github.com/kullaniciadi/MvcStok.git](https://github.com/kullaniciadi/MvcStok.git)
+    git clone [https://github.com/kullaniciadi/MvcStok.git]
     ```
 
 2.  **Veritabanı Yapılandırması (Önemli):**
