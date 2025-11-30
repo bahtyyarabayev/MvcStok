@@ -42,6 +42,22 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 5.  **Çalıştırın:**
     `F5` tuşuna basarak veya "Start" butonuna tıklayarak projeyi tarayıcıda başlatın.
 
+## 📸 Ekran Görüntüleri
+
+### 🗂 Kategori Listesi
+![Kategori Listesi](picture/kategory.png)
+
+### 👤 Müşteri Listesi
+![Müşteri Listesi](picture/Musteri.png)
+
+### ➕ Ürünler
+![Ürünler](picture/Urun.png)
+
+
+### 🧾 Yardım İşlemleri
+![Satış İşlemi](picture/Yardim.png)
+
+
 ## 📂 Proje Yapısı
 
 * **Controllers:** Sayfa yönlendirmeleri ve iş mantığı (UrunController, MusteriController vb.).
