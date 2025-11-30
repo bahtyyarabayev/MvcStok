@@ -45,17 +45,17 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 ## 📸 Ekran Görüntüleri
 
 ### 🗂 Kategori Listesi
-![Kategori Listesi](picture/kategory.png)
+![Kategori Listesi](kategory.png)
 
 ### 👤 Müşteri Listesi
-![Müşteri Listesi](picture/Musteri.png)
+![Müşteri Listesi](Musteri.png)
 
 ### ➕ Ürünler
-![Ürünler](picture/Urun.png)
+![Ürünler](Urun.png)
 
 
 ### 🧾 Yardım İşlemleri
-![Satış İşlemi](picture/Yardim.png)
+![Satış İşlemi](Yardim.png)
 
 
 ## 📂 Proje Yapısı
