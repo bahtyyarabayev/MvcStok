@@ -9,7 +9,7 @@ Proje içerisinde aşağıdaki temel modüller bulunmaktadır:
 * **Ürün Yönetimi:** Ürün ekleme, listeleme, güncelleme ve silme işlemleri.
 * **Kategori Yönetimi:** Ürünlerin kategorize edilmesi ve kategori yönetimi.
 * **Müşteri Yönetimi:** Müşteri kayıtlarının tutulması ve düzenlenmesi.
-* **Satış İşlemleri:** Müşterilere ürün satışının gerçekleştirilmesi ve takibi.
+* **Satış İşlemleri:** Müşterilere ürün satışının gerçekleştirilmesi.
 * **Veritabanı İşlemleri:** Entity Framework (Database First) yaklaşımı ile veri yönetimi.
 
 ## 🛠 Kullanılan Teknolojiler
